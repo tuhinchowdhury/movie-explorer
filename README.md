@@ -16,3 +16,5 @@ All the necessary dependencies will be downloaded automatically.
 Frontend can be accessed at http://localhost:5173/
 
 Backend can be accessed at http://localhost:8000/movies
+
+In Frontend - actors, directors, genres are shown in dropdown. After selecting any combination clicking on "Filter" will populate related movies. On clicking movie names, details will be shown.
