@@ -53,6 +53,9 @@ const MovieDetail: React.FC = () => {
           </span>
         ))}
       </p>
+      <p>
+        Rating: {movie.rating}
+      </p>
     </div>
   );
 };
